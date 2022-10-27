@@ -31,3 +31,17 @@
 .titulo-pequeno{
     font-size: 30px;
 }
+
+.menu-principal {
+ 
+    background-color: #6B705B;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto';
+    
+}
+.item-menu{
+    color: #FFE8D6;
+    text-decoration: none;
+}
